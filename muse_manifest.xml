@@ -1,0 +1,34 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vdx.tv" resolutions="1x" timestamp="1660124037783">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4035846728" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="astronaut-hero.svg" crc="183373521" ref="index"/>
+    <file name="astronaut-hero_poster_u101.png" crc="172423025" ref="index"/>
+    <file name="f6-flutter-rocket-animation.svg" crc="4070846867" ref="index"/>
+    <file name="f6-flutter-rocket-animation_poster_u134.png" crc="3858486599" ref="index"/>
+    <file name="color-banding-gradient-animations.svg" crc="3833946253" ref="index"/>
+    <file name="color-banding-gradient-animations_poster_u112.png" crc="3965222910" ref="index"/>
+    <file name="handwriting-animation.svg" crc="4265794946" ref="index"/>
+    <file name="handwriting-animation_poster_u145.png" crc="4059153351" ref="index"/>
+    <file name="cool-landing-page-animations.svg" crc="3997963769" ref="index"/>
+    <file name="cool-landing-page-animations_poster_u123.png" crc="3833339933" ref="index"/>
+    <file name="interactive-animations-1.svg" crc="512705664" ref="index"/>
+    <file name="interactive-animations-1_poster_u156.png" crc="3998577022" ref="index"/>
+    <file name="svg-vs-gif--sprout-chart.svg" crc="232518853" ref="index"/>
+    <file name="svg-vs-gif--sprout-chart_poster_u178.png" crc="3953754675" ref="index"/>
+    <file name="solar-system-animation.svg" crc="430695952" ref="index"/>
+    <file name="solar-system-animation_poster_u167.png" crc="12365116" ref="index"/>
+  </folder>
+  <file name="index.html" crc="513082292" seo="true" mt="1660123662180" redirect="true"/>
+</manifest>
